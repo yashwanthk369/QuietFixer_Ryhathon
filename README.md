@@ -78,8 +78,8 @@ Feel free to connect with us and explore our work!
 | 2 | [Problem Understanding & Approach](#2-problem-understanding-and-approach) | Root cause and our solution strategy |
 | 3 | [Proposed Solution](#3-proposed-solution) | Overview and key features of Quiet Fixer |
 | 4 | [Technology Stack](#4-technology-stack) | Tools and technologies used |
-| 5 | [Quick Start](#5-quick-start) | How to install and run the extension |
-| 6 | [Security & Privacy](#6-security--privacy) | How user data is protected |
+| 5 | [Architecture Diagram](#5-architecture-diagram) | How to install and run the extension |
+| 6 | [Module Deliverables](#6-module-deliverables) | How user data is protected |
 
 ---
 
@@ -122,7 +122,7 @@ Every guess shows a confidence percentage, risky buttons like Submit always ask 
 
 ---
 
-## 3. Proposed Solution
+## 3 Proposed Solution
 
 ### Solution Overview
 A browser extension for Chrome and Firefox that repairs inaccessible websites live, on the user's own device, so blind and keyboard-only users can finish online forms on their own.
@@ -141,7 +141,7 @@ A browser extension for Chrome and Firefox that repairs inaccessible websites li
 
 ---
 
-## 4. Technology Stack
+## 4 Technology Stack
 
 | Layer | Technology | Purpose |
 |---|---|---|
@@ -155,7 +155,7 @@ A browser extension for Chrome and Firefox that repairs inaccessible websites li
 
 ---
 
-## 5. Architecture Diagram 
+## 5 Architecture Diagram 
 
 **Description**
 
@@ -165,7 +165,7 @@ Quiet Fixer uses a local, AI-free core to improve website accessibility, with an
 
 ---
 
-## 6. Module Deliverables 
+## 6 Module Deliverables 
 
 **Module 1 - Page Scanner**
 
