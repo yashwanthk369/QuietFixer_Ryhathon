@@ -147,13 +147,19 @@ A browser extension for Chrome and Firefox that repairs inaccessible websites li
 |---|---|---|
 | Platform | Browser Extension, Manifest V3 (Chrome and Firefox) | Repairs websites inside the user's own browser |
 | Language | JavaScript (plain, no framework) | All extension logic |
-| Browser Compatibility | WebExtension API, webextension-polyfill | One codebase for Chrome and Firefox |
-| Accessibility Repair | ARIA attributes, `aria-live` regions | Adds missing labels and sends messages to the user's screen reader |
 | Problem Detection | axe-core and custom checks | Finds missing labels, bare icon buttons, heading and focus problems |
 | Screen Readers (target) | NVDA, TalkBack | Read the repaired page to the user |
 | User Interface | HTML and CSS | Simple, keyboard-friendly settings page |
 | Languages | JSON language files (English, Hindi, Tamil) | Every message comes from a file, so a new language needs only a new file |
-| Settings Storage | `chrome.storage.local` | Saves user settings on the device |
-| Document Vault | IndexedDB | Stores saved documents on the device |
-| Encryption | Web Crypto API (PBKDF2, AES-GCM) | Encrypts vault documents with the user's passphrase |
 | Tools | VS Code, Git, GitHub | Development and version control |
+
+---
+
+## 5. Architecture Diagram 
+
+**Description**
+
+Quiet Fixer uses a local, AI-free core to improve website accessibility, with an optional AI add-on for identifying unknown buttons. Both architectures prioritize privacy, encrypted document storage, keyboard navigation, and screen-reader support.
+
+<img width="1536" height="1024" alt="Quiet Fixer Architecture_ With and Without AI" src="https://github.com/user-attachments/assets/58d29bae-2e51-4413-96d7-ff4c1c321cbd" />
+
