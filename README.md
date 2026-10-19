@@ -163,3 +163,52 @@ Quiet Fixer uses a local, AI-free core to improve website accessibility, with an
 
 <img width="1536" height="1024" alt="Quiet Fixer Architecture_ With and Without AI" src="https://github.com/user-attachments/assets/58d29bae-2e51-4413-96d7-ff4c1c321cbd" />
 
+---
+
+## 6. Module Deliverables 
+
+**Module 1 - Page Scanner**
+
+> Detect inaccessible form fields, buttons, headings, and upload controls.
+> 
+> Identify accessibility issues using axe-core and custom checks.
+> 
+> Classify issues by severity and display them in a debug panel.
+
+**Module 2 - Accessibility Fixer**
+
+> Add missing labels and improve keyboard navigation.
+> 
+> Repair heading navigation and detect Tamil/Hindi text.
+> 
+> Provide translated hints and record changes for undo.
+
+**Module 3 - Keyboard Navigation & Document Vault**
+
+> Implement keyboard shortcuts and screen-reader announcements.
+> 
+> Store documents locally with AES-GCM encryption.
+> 
+> Support accessible file uploads with user confirmation.
+
+**Module 4 - Form Review & Optional AI**
+
+> Review forms while hiding sensitive values.
+> 
+> Confirm risky actions and support undo.
+> 
+> Use optional Gemini AI to identify unknown buttons, with consent and privacy checks.
+> 
+> Keep AI disabled by default and block it on sensitive sites.
+
+---
+
+## 7. Demo Link 
+
+**App Demo Link(Windows)** : [https://drive.google.com/drive/folders/1PxCOirurar8vtZWZUrtAi0g5HQV7F-l8?usp=sharing](https://drive.google.com/drive/folders/1qDcAtOL26TitKLCMfgURLtPpVEBgenYk?usp=sharing)
+
+**App Demo Link(Mac)** : [https://drive.google.com/drive/folders/1PxCOirurar8vtZWZUrtAi0g5HQV7F-l8?usp=sharing](https://drive.google.com/drive/folders/1qDcAtOL26TitKLCMfgURLtPpVEBgenYk?usp=sharing)
+
+## 8. Glimplse of the project
+
+
