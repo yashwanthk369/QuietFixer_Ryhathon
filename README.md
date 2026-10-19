@@ -57,7 +57,7 @@ Feel free to connect with us and explore our work!
 
 1. [Problem Statement](#Problem-Statement)
    
-3. [Architecture Comparison: V1 vs V2](#architecture-comparison-v1-vs-v2)
+3. [Problem Understanding & Approach](#Problem-Understanding-&-Approach)
    
 5. [V1: CloudOps AI Copilot MVP](#v1-cloudops-ai-copilot-mvp)
    
@@ -93,6 +93,10 @@ Blind, low-vision and keyboard-only people, including rural users who do not rea
 * **Language barrier:** Most fixes are English-only, and rural users need Tamil, Hindi and other languages.
 * **Documents and captchas:** Upload boxes and captchas are among the hardest steps, and the user usually cannot ask anyone for help.
 * **Wrong guesses are dangerous:** A guessed button name can lead to a wrong action such as paying or deleting.
+
+  <img width="1376" height="768" alt="image_56abd2ef (1)" src="https://github.com/user-attachments/assets/9ad8e340-7a08-41ad-a504-3d42c7191088" />
+
+                                             **Figure 1.1 Blind person struggle to fill the form**
 
 ---
 
