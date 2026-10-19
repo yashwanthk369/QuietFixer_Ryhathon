@@ -75,7 +75,7 @@ Feel free to connect with us and explore our work!
 | No. | Section | What It Covers |
 |---|---|---|
 | 1 | [Problem Statement](#problem-statement) | The problem blind and keyboard-only users face on websites |
-| 2 | [Problem Understanding & Approach](#2-problem-understanding--approach) | Root cause and our solution strategy |
+| 2 | [Problem Understanding & Approach](#2-problem-understanding-&-approach) | Root cause and our solution strategy |
 | 3 | [Proposed Solution](#3-proposed-solution) | Overview and key features of Quiet Fixer |
 | 4 | [Technology Stack](#4-technology-stack) | Tools and technologies used |
 | 5 | [Quick Start](#5-quick-start) | How to install and run the extension |
@@ -83,7 +83,7 @@ Feel free to connect with us and explore our work!
 
 ---
 
-## Problem Statement
+## 1 Problem Statement
 
 ### Problem ID & Domain : WEB-09 & Web Development
 
@@ -110,7 +110,7 @@ Blind, low-vision and keyboard-only people, including rural users who do not rea
 
 ---
 
-## Problem Understanding & Approach
+## 2 Problem Understanding & Approach
 
 **Root Cause Analysis**
 Websites are built to look good, but they often skip the hidden information that a screen reader needs, like labels and button names. Site owners rarely fix this before the user’s deadline. Ready-made fixing tools often clash with the user’s own screen reader. Cloud-based fixes are unsafe for private data like Aadhaar and bank details, and they fail without internet. Also, many users have no one nearby to help them.
