@@ -74,7 +74,7 @@ Feel free to connect with us and explore our work!
 
 | No. | Section | What It Covers |
 |---|---|---|
-| 1 | [Problem Statement](#1-problem-statement) | The problem blind and keyboard-only users face on websites |
+| 1 | [Problem Statement](#problem-statement) | The problem blind and keyboard-only users face on websites |
 | 2 | [Problem Understanding & Approach](#2-problem-understanding--approach) | Root cause and our solution strategy |
 | 3 | [Proposed Solution](#3-proposed-solution) | Overview and key features of Quiet Fixer |
 | 4 | [Technology Stack](#4-technology-stack) | Tools and technologies used |
