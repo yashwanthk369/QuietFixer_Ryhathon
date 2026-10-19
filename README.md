@@ -55,21 +55,14 @@ Feel free to connect with us and explore our work!
 
 ## 📋 Table of Contents
 
-1. [Problem Statement](#Problem-Statement)
-   
-3. [Problem Understanding & Approach](#Problem-Understanding-&-Approach)
-   
-5. [V1: CloudOps AI Copilot MVP](#v1-cloudops-ai-copilot-mvp)
-   
-7. [V2: UACI Multi-Project Platform](#v2-uaci-multi-project-platform)
-   
-9. [Quick Start](#quick-start)
-    
-11. [Deployment](#deployment)
-    
-13. [API Reference](#api-reference)
-    
-15. [Security & Compliance](#security--compliance)
+| No. | Section | What It Covers |
+|---|---|---|
+| 1 | [Problem Statement](#1-problem-statement) | The problem blind and keyboard-only users face on websites |
+| 2 | [Problem Understanding & Approach](#2-problem-understanding--approach) | Root cause and our solution strategy |
+| 3 | [Proposed Solution](#3-proposed-solution) | Overview and key features of Quiet Fixer |
+| 4 | [Technology Stack](#4-technology-stack) | Tools and technologies used |
+| 5 | [Quick Start](#5-quick-start) | How to install and run the extension |
+| 6 | [Security & Privacy](#6-security--privacy) | How user data is protected |
 
 ---
 
@@ -131,3 +124,19 @@ A browser extension for Chrome and Firefox that repairs inaccessible websites li
 
 ---
 
+## 4. Technology Stack
+
+| Layer | Technology | Purpose |
+|---|---|---|
+| Platform | Browser Extension, Manifest V3 (Chrome and Firefox) | Repairs websites inside the user's own browser |
+| Language | JavaScript (plain, no framework) | All extension logic |
+| Browser Compatibility | WebExtension API, webextension-polyfill | One codebase for Chrome and Firefox |
+| Accessibility Repair | ARIA attributes, `aria-live` regions | Adds missing labels and sends messages to the user's screen reader |
+| Problem Detection | axe-core and custom checks | Finds missing labels, bare icon buttons, heading and focus problems |
+| Screen Readers (target) | NVDA, TalkBack | Read the repaired page to the user |
+| User Interface | HTML and CSS | Simple, keyboard-friendly settings page |
+| Languages | JSON language files (English, Hindi, Tamil) | Every message comes from a file, so a new language needs only a new file |
+| Settings Storage | `chrome.storage.local` | Saves user settings on the device |
+| Document Vault | IndexedDB | Stores saved documents on the device |
+| Encryption | Web Crypto API (PBKDF2, AES-GCM) | Encrypts vault documents with the user's passphrase |
+| Tools | VS Code, Git, GitHub | Development and version control |
