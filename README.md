@@ -14,7 +14,11 @@ Feel free to connect with us and explore our work!
 **👤KALPANAA BABU T M**
 
 [![Email](https://img.shields.io/badge/Email-kalpanakyashwanthk@gmail.com-red?style=flat&logo=gmail)](mailto:kalpanakyashwanthk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Patil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankita-patil-10b0732ab/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Patil-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-patil-10b0732ab/)
+[![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
+[![Dept](https://img.shields.io/badge/Dept-Artificial%20Intelligence%20&%20Data%20Science-darkblue?style=flat)](https://saveetha.ac.in/atificial-intelligence-data-science)
+
+
 
 ---
 
@@ -22,6 +26,9 @@ Feel free to connect with us and explore our work!
 
 [![Email](https://img.shields.io/badge/Email-kalpanaamurali2006@gmail.com-red?style=flat&logo=gmail)](mailto:m.kalpanaamurali2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mithilesh%20Kolhapurkar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mithilesh-kolhapurkar-258001214)
+[![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
+[![Dept](https://img.shields.io/badge/Dept-Computer%20Science%20Engineering-darkblue?style=flat)](https://saveetha.ac.in/computer-science-and-engineering)
+
 
 ---
 
@@ -29,6 +36,10 @@ Feel free to connect with us and explore our work!
 
 [![Email](https://img.shields.io/badge/Email-kalpanakyashwanthk@gmail.com-red?style=flat&logo=gmail)](mailto:kalpanakyashwanthk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Patil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankita-patil-10b0732ab/)
+[![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
+[![Dept](https://img.shields.io/badge/Dept-Computer%20Science%20Engineering-darkblue?style=flat)](https://saveetha.ac.in/computer-science-and-engineering)
+
+
 
 ---
 
@@ -36,6 +47,8 @@ Feel free to connect with us and explore our work!
 
 [![Email](https://img.shields.io/badge/Email-kalpanakyashwanthk@gmail.com-red?style=flat&logo=gmail)](mailto:kalpanakyashwanthk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Patil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankita-patil-10b0732ab/)
+[![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
+[![Dept](https://img.shields.io/badge/Dept-Computer%20Science%20Engineering(IoT)-darkblue?style=flat)](https://saveetha.ac.in/computer-science-and-engineering)
 
 ---
 
@@ -43,6 +56,8 @@ Feel free to connect with us and explore our work!
 
 [![Email](https://img.shields.io/badge/Email-kalpanakyashwanthk@gmail.com-red?style=flat&logo=gmail)](mailto:kalpanakyashwanthk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Patil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankita-patil-10b0732ab/)
+[![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
+[![Dept](https://img.shields.io/badge/Dept-Computer%20Science%20Engineering-darkblue?style=flat)](https://saveetha.ac.in/computer-science-and-engineering-internet-of-things)
 
 ---
 
@@ -50,6 +65,8 @@ Feel free to connect with us and explore our work!
 
 [![Email](https://img.shields.io/badge/Email-kalpanakyashwanthk@gmail.com-red?style=flat&logo=gmail)](mailto:kalpanakyashwanthk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Patil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankita-patil-10b0732ab/)
+[![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
+[![Dept](https://img.shields.io/badge/Dept-Computer%20Science%20Engineering-darkblue?style=flat)](https://saveetha.ac.in/computer-science-and-engineering)
 
 ---
 
