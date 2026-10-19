@@ -100,7 +100,7 @@ Blind, low-vision and keyboard-only people, including rural users who do not rea
 
 ---
 
-## 2. Problem Understanding & Approach
+## Problem Understanding & Approach
 
 **Root Cause Analysis**
 Websites are built to look good, but they often skip the hidden information that a screen reader needs, like labels and button names. Site owners rarely fix this before the user’s deadline. Ready-made fixing tools often clash with the user’s own screen reader. Cloud-based fixes are unsafe for private data like Aadhaar and bank details, and they fail without internet. Also, many users have no one nearby to help them.
