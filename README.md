@@ -80,6 +80,10 @@ Feel free to connect with us and explore our work!
 | 4 | [Technology Stack](#4-technology-stack) | Tools and technologies used |
 | 5 | [Architecture Diagram](#5-architecture-diagram) | How to install and run the extension |
 | 6 | [Module Deliverables](#6-module-deliverables) | How user data is protected |
+| 7 | [Key Benefits](#7-key-benefits) | How user data is protected |
+| 8 | [Demo Video Link](#8-demo-link) | How user data is protected |
+| 9 | [Project Glimpse](#9-glimpse-of-the-project) | How user data is protected |
+| 10 | [Conclusion](#10-conclusion) | How user data is protected |
 
 ---
 
@@ -203,16 +207,19 @@ Quiet Fixer uses a local, AI-free core to improve website accessibility, with an
 
 ---
 
-## 7. Key Benefits
+## 7 Key Benefits
 
 **Improved Accessibility:** Helps visually impaired and keyboard-only users navigate inaccessible websites more easily.
+
 **Privacy and Security:** Processes core accessibility fixes locally, protects sensitive information, and keeps AI disabled by default.
+
 **Multilingual Support:** Provides accessibility assistance in English, Hindi, and Tamil.
+
 **Greater Independence:** Helps users fill out forms, navigate websites, and complete online tasks with less assistance from others.
 
 ---
 
-## 8. Demo Link 
+## 8 Demo Link 
 
 **App Demo Link(Windows)** : [https://drive.google.com/drive/folders/1PxCOirurar8vtZWZUrtAi0g5HQV7F-l8?usp=sharing](https://drive.google.com/drive/folders/1qDcAtOL26TitKLCMfgURLtPpVEBgenYk?usp=sharing)
 
@@ -220,11 +227,11 @@ Quiet Fixer uses a local, AI-free core to improve website accessibility, with an
 
 ---
 
-## 9. Glimplse of the project
+## 9 Glimpse of the project
 
 
 ---
 
-## 10. Conclusion
+## 10 Conclusion
 
 Quiet Fixer aims to make the digital world more accessible, secure, and inclusive for everyone. By combining offline accessibility fixes, multilingual support, and privacy-focused design, it helps users navigate websites independently. Our goal is to ensure that accessibility is not a privilege, but a basic digital right.
