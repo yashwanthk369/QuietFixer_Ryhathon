@@ -34,8 +34,8 @@ Feel free to connect with us and explore our work!
 
 **👤SOJAN S**
 
-[![Email](https://img.shields.io/badge/Email-kalpanakyashwanthk@gmail.com-red?style=flat&logo=gmail)](mailto:kalpanakyashwanthk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Patil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankita-patil-10b0732ab/)
+[![Email](https://img.shields.io/badge/Email-sojans940@gmail.com-red?style=flat&logo=gmail)](mailto:kalpanakyashwanthk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankita%20Patil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sojan-s-b540ba407/)
 [![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
 [![Dept](https://img.shields.io/badge/Dept-Computer%20Science%20Engineering-darkblue?style=flat)](https://saveetha.ac.in/computer-science-and-engineering)
 
