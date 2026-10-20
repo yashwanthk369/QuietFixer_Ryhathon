@@ -11,7 +11,7 @@
 This project was designed and developed by team **Ctrl C Ctrl V** under **Ryhathon 2026 - Francis Xavier Engineering College (FXEC)**.
 Feel free to connect with us and explore our work!
 
-**👤KALPANAA BABU T M**
+**👤AANANDHA KANNAN S**
 
 [![Email](https://img.shields.io/badge/Email-kalpanaamurali2006@gmail.com-red?style=flat&logo=gmail)](mailto:kalpanaamurali2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalpanaa%20Babu%20T%20M-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankita-patil-10b0732ab/)
@@ -61,7 +61,7 @@ Feel free to connect with us and explore our work!
 
 ---
 
-**👤AANANDHA KANNAN S**
+**👤KALPANA BABU TM**
 
 [![Email](https://img.shields.io/badge/Email-kalpanakyashwanthk@gmail.com-red?style=flat&logo=gmail)](mailto:kalpanakyashwanthk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aanandha%20Kannan%20S-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ankita-patil-10b0732ab/)
