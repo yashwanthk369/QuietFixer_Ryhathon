@@ -16,7 +16,7 @@ Feel free to connect with us and explore our work!
 [![Email](https://img.shields.io/badge/Email-mksaravanan197622@gmail.com-red?style=flat&logo=gmail)](mailto:mksaravanan197622@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aanandha%20Kannan%20S-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanandha-kannan-s-6695362b8)
 [![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
-[![Dept](https://img.shields.io/badge/Dept-Artificial%20Intelligence%20&%20Data%20Science-darkblue?style=flat)](https://saveetha.ac.in/atificial-intelligence-data-science)
+[![Dept](https://img.shields.io/badge/Dept-Computer%20Science%20&%20Engineering-darkblue?style=flat)](https://saveetha.ac.in/computer-science-and-engineering)
 
 
 
