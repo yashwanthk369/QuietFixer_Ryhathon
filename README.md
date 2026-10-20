@@ -108,9 +108,9 @@ Blind, low-vision and keyboard-only people, including rural users who do not rea
 * **Documents and captchas:** Upload boxes and captchas are among the hardest steps, and the user usually cannot ask anyone for help.
 * **Wrong guesses are dangerous:** A guessed button name can lead to a wrong action such as paying or deleting.
 
-  <img width="1376" height="768" alt="image_56abd2ef (1)" src="https://github.com/user-attachments/assets/9ad8e340-7a08-41ad-a504-3d42c7191088" />
+<img width="1536" height="1024" alt="Accessible Government Hospital Workspace" src="https://github.com/user-attachments/assets/c13d60e2-51f7-4e15-b3c8-ad46fa37f834" />
 
-                                             **Figure 1.1 Blind person struggle to fill the form**
+                                                Figure 1.1 Blind person struggle to fill the form
 
 ---
 
