@@ -79,11 +79,11 @@ Feel free to connect with us and explore our work!
 | 3 | [Proposed Solution](#3-proposed-solution) | Overview and key features of Quiet Fixer |
 | 4 | [Technology Stack](#4-technology-stack) | Tools and technologies used |
 | 5 | [Architecture Diagram](#5-architecture-diagram) | How to install and run the extension |
-| 6 | [Module Deliverables](#6-module-deliverables) | How user data is protected |
-| 7 | [Key Benefits](#7-key-benefits) | How user data is protected |
-| 8 | [Demo Video Link](#8-demo-link) | How user data is protected |
-| 9 | [Project Glimpse](#9-glimpse-of-the-project) | How user data is protected |
-| 10 | [Conclusion](#10-conclusion) | How user data is protected |
+| 6 | [Module Deliverables](#6-module-deliverables) | What each module does: scanner, DOM repair engine, screen reader output, vault auto-fill and safe confirmation |
+| 7 | [Key Benefits](#7-key-benefits) | 	Impact on users: 100% independent form completion, 60% faster tasks, 40% fewer submission errors, and support for 3 languages |
+| 8 | [Demo Video Link](#8-demo-link) | Walkthrough of Quiet Fixer fixing a real portal form |
+| 9 | [Project Glimpse](#9-glimpse-of-the-project) | Screenshots of the extension in action |
+| 10 | [Conclusion](#10-conclusion) | 	Summary, vision for accessible government portals, and next steps |
 
 ---
 
@@ -228,6 +228,17 @@ Quiet Fixer uses a local, AI-free core to improve website accessibility, with an
 ---
 
 ## 9 Glimpse of the project
+
+<img width="1919" height="969" alt="Screenshot 2026-10-22 183822" src="https://github.com/user-attachments/assets/1a467dc4-cbab-4d71-ac50-a9108151cc1f" />
+
+<img width="1912" height="976" alt="Screenshot 2026-10-22 183841" src="https://github.com/user-attachments/assets/416c3b53-53d0-44fb-a33e-d0c0fec08d76" />
+
+
+<img width="1919" height="959" alt="Screenshot 2026-10-22 183859" src="https://github.com/user-attachments/assets/7285a139-6741-40b7-a769-724cc5c70d4b" />
+
+<img width="1915" height="966" alt="Screenshot 2026-10-22 183917" src="https://github.com/user-attachments/assets/dba82569-c999-4bd2-9415-788311fd5260" />
+
+<img width="1912" height="977" alt="Screenshot 2026-10-22 183932" src="https://github.com/user-attachments/assets/d406c1ab-1550-453e-ad9a-92c831439b7a" />
 
 
 ---
