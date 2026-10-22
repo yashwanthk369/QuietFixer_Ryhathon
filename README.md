@@ -66,7 +66,7 @@ Feel free to connect with us and explore our work!
 [![Email](https://img.shields.io/badge/Email-kalpanaamurali2006@gmail.com-red?style=flat&logo=gmail)](mailto:kalpanaamurali2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalpanaa%20Babu%20T%20M-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalpanaa-babu-t-m-aaa80632a)
 [![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
-[![Dept](https://img.shields.io/badge/Dept-Artificial%20Intelligence%20&%20Data%20Science-darkblue?style=flat)]((https://saveetha.ac.in/artificial-intelligence-data-science/))
+[![Dept](https://img.shields.io/badge/Dept-Artificial%20Intelligence%20&%20Data%20Science-darkblue?style=flat)](https://saveetha.ac.in/artificial-intelligence-data-science/)
 
 ---
 
