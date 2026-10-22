@@ -46,7 +46,7 @@ Feel free to connect with us and explore our work!
 **👤ANAND K**
 
 [![Email](https://img.shields.io/badge/Email-anand30597@gmail.com-red?style=flat&logo=gmail)](mailto:anand30597@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20K-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/anand-undefined-931315409))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20K-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anand-undefined-931315409)
 [![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
 [![Dept](https://img.shields.io/badge/Dept-Computer%20Science%20Engineering(IoT)-darkblue?style=flat)](https://saveetha.ac.in/computer-science-and-engineering)
 
@@ -55,7 +55,7 @@ Feel free to connect with us and explore our work!
 **👤SURYA PRAKAH PN**
 
 [![Email](https://img.shields.io/badge/Email-suryaprakashpn29@gmail.com-red?style=flat&logo=gmail)](mailto:suryaprakashpn29@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Surya%20Prakash%20PN-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/p-n-suryaprakash-1689a9438))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Surya%20Prakash%20PN-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/p-n-suryaprakash-1689a9438)
 [![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
 [![Dept](https://img.shields.io/badge/Dept-Computer%20Science%20Engineering-darkblue?style=flat)](https://saveetha.ac.in/computer-science-and-engineering-internet-of-things)
 
