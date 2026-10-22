@@ -45,7 +45,7 @@ Feel free to connect with us and explore our work!
 
 **👤ANAND K**
 
-[![Email](https://img.shields.io/badge/Email-kalpanakyashwanthk@gmail.com-red?style=flat&logo=gmail)](mailto:kalpanakyashwanthk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-anand30597@gmail.com-red?style=flat&logo=gmail)](mailto:anand30597@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20K-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/anand-undefined-931315409))
 [![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
 [![Dept](https://img.shields.io/badge/Dept-Computer%20Science%20Engineering(IoT)-darkblue?style=flat)](https://saveetha.ac.in/computer-science-and-engineering)
@@ -54,7 +54,7 @@ Feel free to connect with us and explore our work!
 
 **👤SURYA PRAKAH PN**
 
-[![Email](https://img.shields.io/badge/Email-kalpanakyashwanthk@gmail.com-red?style=flat&logo=gmail)](mailto:kalpanakyashwanthk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-suryaprakashpn29@gmail.com-red?style=flat&logo=gmail)](mailto:suryaprakashpn29@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Surya%20Prakash%20PN-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/p-n-suryaprakash-1689a9438))
 [![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
 [![Dept](https://img.shields.io/badge/Dept-Computer%20Science%20Engineering-darkblue?style=flat)](https://saveetha.ac.in/computer-science-and-engineering-internet-of-things)
@@ -66,7 +66,7 @@ Feel free to connect with us and explore our work!
 [![Email](https://img.shields.io/badge/Email-kalpanaamurali2006@gmail.com-red?style=flat&logo=gmail)](mailto:kalpanaamurali2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalpanaa%20Babu%20T%20M-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalpanaa-babu-t-m-aaa80632a)
 [![College](https://img.shields.io/badge/College-Saveetha%20Engineering%20College-8A2BE2?style=flat&logo=graduation-cap&logoColor=white)](https://saveetha.ac.in/)
-[![Dept](https://img.shields.io/badge/Dept-Computer%20Science%20Engineering-darkblue?style=flat)](https://saveetha.ac.in/computer-science-and-engineering)
+[![Dept](https://img.shields.io/badge/Dept-Artificial%20Intelligence%20&%20Data%20Science-darkblue?style=flat)]((https://saveetha.ac.in/artificial-intelligence-data-science/))
 
 ---
 
@@ -231,12 +231,15 @@ Quiet Fixer uses a local, AI-free core to improve website accessibility, with an
 
 <img width="1919" height="969" alt="Screenshot 2026-10-22 183822" src="https://github.com/user-attachments/assets/1a467dc4-cbab-4d71-ac50-a9108151cc1f" />
 
+
 <img width="1912" height="976" alt="Screenshot 2026-10-22 183841" src="https://github.com/user-attachments/assets/416c3b53-53d0-44fb-a33e-d0c0fec08d76" />
 
 
 <img width="1919" height="959" alt="Screenshot 2026-10-22 183859" src="https://github.com/user-attachments/assets/7285a139-6741-40b7-a769-724cc5c70d4b" />
 
+
 <img width="1915" height="966" alt="Screenshot 2026-10-22 183917" src="https://github.com/user-attachments/assets/dba82569-c999-4bd2-9415-788311fd5260" />
+
 
 <img width="1912" height="977" alt="Screenshot 2026-10-22 183932" src="https://github.com/user-attachments/assets/d406c1ab-1550-453e-ad9a-92c831439b7a" />
 
