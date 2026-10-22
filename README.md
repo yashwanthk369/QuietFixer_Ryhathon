@@ -223,7 +223,7 @@ Quiet Fixer uses a local, AI-free core to improve website accessibility, with an
 
 **Live App URL** : [Click here to view the app](https://sproutassitance.ai.studio)
 
-**App Demo Link(Mac)** : [https://drive.google.com/drive/folders/1PxCOirurar8vtZWZUrtAi0g5HQV7F-l8?usp=sharing](https://drive.google.com/drive/folders/1qDcAtOL26TitKLCMfgURLtPpVEBgenYk?usp=sharing)
+**App Demo Link** : [Click here to view our demo video](https://drive.google.com/file/d/1lJ6-l7dD7NtXRET5mRyKxCeH66RJ1Dt5/view?usp=sharing)
 
 ---
 
